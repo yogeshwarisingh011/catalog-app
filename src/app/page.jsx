@@ -50,7 +50,7 @@ export default function HomePage() {
 
       <div className="categories-section">
         <div className="main-box">
-          <h2 className="main-title">Our Amazing Collection</h2>
+          <h2 className="main-title">Our Amazing Collections</h2>
         </div>
         <div className="tab-bar">
           {tabs.map((tab) => {
